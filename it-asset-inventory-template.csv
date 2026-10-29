@@ -1,0 +1,3 @@
+Asset ID,Asset Type,Manufacturer,Model,Serial Number,Purchase Date,Purchase Cost,Currency,Location,Department,Assigned To,Assigned Date,Status,Condition,Warranty Expiry,Last Verified Date,Notes
+LT-001,Laptop,Example Brand,Example Model,DEMO-SERIAL-001,2026-01-15,850,USD,London Office,Operations,Employee A,2026-01-20,Assigned,Good,2029-01-15,2026-10-01,DEMO ROW - replace before real use
+MN-002,Monitor,Example Brand,24-inch Display,DEMO-SERIAL-002,2026-02-10,200,USD,Storage,IT,,,Available,Good,2029-02-10,2026-10-01,DEMO ROW - replace before real use
